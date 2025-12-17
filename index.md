@@ -6,7 +6,7 @@ title: Jacob Gonzalez
 ## About Me
 
 
-![Profile Picture]({{ "/fa25-portfolio-JacobG469/assets/images/Jacob_Gonzalez_Use_Anduril.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "/assets/images/Jacob_Gonzalez_Use_Anduril.jpg" | relative_url }}){: class="profile-image"}
 
  
 Hi there! I'm Jacob Gonzalez, an engineering student at Cornell studying Mechanical and Electrical Engineering! I'm currently interested in developing new technologies that lie within the intersection of Electrical and Mechanical Engineering, while developing my skills as a versatile engineer. 
