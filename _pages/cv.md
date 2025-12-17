@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Jacob Gonzalez - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,23 +8,23 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [jdg289@cornell.edu](mailto:jdg289@cornell.edu) | | | **Phone:** +1 469 360 9808
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in electrical and mechanical engineering.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.8/4.0 | Graduation: May, 2026
 
-- **[High School Name]**  
+- **[School of Science and Engineering]**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [May, 2022]
 
 ---
 
@@ -35,36 +35,16 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 ---
 
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
----
-
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **[Anduril Industries] - Intern**  
+  [June, 2026] - [August, 2026]  
+  - Power Electronics Intern 
 
 ---
 
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
----
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of [Cornell FSAE Racing]
 
 ---
 
