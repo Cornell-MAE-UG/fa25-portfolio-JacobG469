@@ -13,8 +13,8 @@ Our testing involved running our blade turbine design through our small-scale la
 ---
 Plots and Tables: 
 
-![Power vs RPM](/assets/images/rpm.png)
-![Blade Data](/assets/images/table.png)
+![Power vs RPM](/assets/images/rpm.jpg)
+![Blade Data](/assets/images/table.jpg)
 
 
 
