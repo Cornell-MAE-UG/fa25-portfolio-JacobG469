@@ -1,25 +1,15 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
-image: /assets/images/function-graph.png
+title: MAE 4300 Engineering Ethics
+description: The Boeing 737 MAX Case
+technologies: Ethics
+image: 
 ---
 
 
-As part of a class project...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+The Boeing 737 MAX and the MCAS System have plenty of ethical issues surrounding them, with a lot of it coming from a mix of poor technical decisions, pressure from management, and very little oversight. The MCAS relying solely on a single angle of attack sensor was one of the major flaw given a bad reading causing repeated nose down commands that would cause trouble for pilots since they weren’t fully aware of the MCAS’ operation and they had more trouble when they had to make moves in emergency situations. These technical problems were further made worse by Boeing’s push to keep costs very low and not have any interruptions as they tried to maintain a competitive advantage, all of this causing safety concerns to be pushed to the side as they continued to look for greater success. 
 
+Because of inappropriate and honestly unethical operation within the company and the program, engineers were not given enough influence when decisions were made and they reached management. Engineers raising concerns about issues with the MCAS were not taken seriously and they were overridden by the people above them who were more worried about meeting deadlines and getting certification much faster with profit being at the forefront of their objectives. This line of thinking made it so responsibility was very untrackable and no one was able to take accountability. Boeing was able to handle a lot of the certification on their own with very little oversight, allowing them to just move forward unchecked and not being fully compliant. This reduced amount of checks made it easier for issues with safety to be stuffed under the rug. If anyone had issues with something, they would keep it to themselves because of the fear of retaliation and getting fired, further discouraging them from speaking up.
 
-Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-
-This is how I solved the problem:
-
-```python
-    some code = 10;
-    plot();
-```
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
+This whole case serves as an example of what not to do, and shows us that changes have to be made at every level. The engineers there need stronger ethics training that reinforce the need to have safety at the top of their priorities and put that before the interests of the company. We should have engineers having more say in safety decisions, and they should be independent of the groups that are supposed to be overseeing them. We need more accountability and to get rid of a profit mindset. Beyond that, the regulators at hand need to keep a stronger grip on what they approve and there should be a good amount of oversight. Ultimately, this system has to move to being focused on safety not profits.
 
