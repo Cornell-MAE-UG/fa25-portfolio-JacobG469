@@ -3,9 +3,8 @@ layout: project
 title: MAE 4300 Engineering Ethics
 description: The Boeing 737 MAX Case
 technologies: Ethics
-image: 
+image: /assets/images/737.PNG
 ---
-
 
 The Boeing 737 MAX and the MCAS System have plenty of ethical issues surrounding them, with a lot of it coming from a mix of poor technical decisions, pressure from management, and very little oversight. The MCAS relying solely on a single angle of attack sensor was one of the major flaw given a bad reading causing repeated nose down commands that would cause trouble for pilots since they weren’t fully aware of the MCAS’ operation and they had more trouble when they had to make moves in emergency situations. These technical problems were further made worse by Boeing’s push to keep costs very low and not have any interruptions as they tried to maintain a competitive advantage, all of this causing safety concerns to be pushed to the side as they continued to look for greater success. 
 
